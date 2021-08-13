@@ -98,7 +98,8 @@
 				</div>
 
 <!-- Cette Ligne Ne dois Jaùais Etre Editee ou Supprimee --> 
-<p class="text-white text-center mt-5">Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Orbit Law Tech <i class="fa fa-heart-o" aria-hidden="true"></i></p>
+<p class="text-white text-center mt-5">Copyright &copy;2018 All rights reserved | Orbit Law Tech <i class="fa fa-heart-o" aria-hidden="true"></i></p>
+<!-- <p class="text-white text-center mt-5">Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Orbit Law Tech <i class="fa fa-heart-o" aria-hidden="true"></i></p> -->
 <!-- Cette Ligne Ne dois Jaùais Etre Editee ou Supprimee --> 
 
 
