@@ -1,0 +1,26 @@
+TOP-NAV THEME COLOR:
+#970d0d 
+on Hover: color: 11:35 08/12/2018;
+805A0193
++================FONTS=================+
++font-family: 'Black Han Sans', sans-serif;    +
++font-family: 'Chakra Petch', sans-serif;         +
++font-family: 'Josefin Sans', sans-serif;          +
++font-family: 'Pacifico', cursive;	          +
++font-family: 'Sedgwick Ave', cursive;	          +
++font-family: 'Hacked', sans-serif;	          +
++========================================+
+@font-face {
+    font-family: Hacked;
+    src: url(https://hackedfont.com/HACKED.ttf);
+}
+@font-face {
+font-family: 'Azonix Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Azonix Regular'), url('Azonix.woff') format('woff');
+}
+
+<link href='https://fonts.googleapis.com/css?family=Audiowide' rel='stylesheet' type='text/css'>
+@import url(https://fonts.googleapis.com/css?family=Audiowide);
+font-family: 'Audiowide', cursive;
